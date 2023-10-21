@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b1225cb.css",
+    "main.js": "/static/js/main.8c1dfdc2.js",
+    "static/media/profile.svg": "/static/media/profile.a34017e81b139dba8726607bd7a0cd38.svg",
+    "static/media/pieChart.png": "/static/media/pieChart.275b6188fea289e59b21.png",
+    "static/media/flag.svg": "/static/media/flag.5cf49fce58f41606f624a0fc3135f5e9.svg",
+    "static/media/ic_dashboard.svg": "/static/media/ic_dashboard.adb760b06914808139c48f8fcfec29ce.svg",
+    "static/media/search.svg": "/static/media/search.dbb8f985c293c1b33f42f44b1b405ed0.svg",
+    "static/media/bell.svg": "/static/media/bell.7f89182cc2518e17588a8323fd2ad9dc.svg",
+    "index.html": "/index.html",
+    "static/media/ic_user_group.svg": "/static/media/ic_user_group.110b68f46d73abc10a9bd5e5027c2eac.svg",
+    "static/media/ic_chevron_right.svg": "/static/media/ic_chevron_right.24aaa4aa4acefebbdcbe7adf6b279d5b.svg",
+    "static/media/ic_chevron_down.svg": "/static/media/ic_chevron_down.a99d6157d2177901b02ed219cab41bad.svg",
+    "main.0b1225cb.css.map": "/static/css/main.0b1225cb.css.map",
+    "main.8c1dfdc2.js.map": "/static/js/main.8c1dfdc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b1225cb.css",
+    "static/js/main.8c1dfdc2.js"
+  ]
+}
