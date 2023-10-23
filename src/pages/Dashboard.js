@@ -13,7 +13,9 @@ const Dashboard = () => {
           <div className="underline"></div>
         </div>
         <br />
-        <NavLink to="/client">Clients Details</NavLink>
+        <NavLink className="blur" to="/client">
+          Clients Details
+        </NavLink>
       </div>
       <Main1 />
       <Main2 />

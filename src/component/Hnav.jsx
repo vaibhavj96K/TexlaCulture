@@ -10,7 +10,7 @@ import { ReactComponent as Bell } from "../icons/bell.svg";
 import { ReactComponent as Users } from "../icons/ic_user_group.svg";
 import { ReactComponent as Profile } from "../icons/profile.svg";
 
-import Client from "../pages/Client";
+// import Client from "../pages/Client";
 const Hnav = () => {
   return (
     <div className="hnav">

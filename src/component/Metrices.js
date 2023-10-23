@@ -3,7 +3,7 @@ import img2 from "../Images/pieChart.png";
 const Metrices = () => {
   return (
     <div className="pieChart">
-      <img src={img2} alt="pieChart" />
+      <img className="pie-img" src={img2} alt="pieChart" />
     </div>
   );
 };

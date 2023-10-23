@@ -45,19 +45,19 @@ const Companies = () => {
         </thead>
         <tbody>
           {companyDetails.map((c) => (
-            <tr key={c.id}>
+            <tr key={c.id} className="trr">
               <td className="flex">
                 <img src={img} alt="Company_profile" />
                 <div className="flex2">
                   <p>{c.name}</p>
-                  <span>{c.subtitle}</span>
+                  <span className="subfont">{c.subtitle}</span>
                 </div>
               </td>
-              <td>{c.onboarding}</td>
-              <td>{c.go_live}</td>
-              <td>{c.total}</td>
-              <td>{c.billing_date}</td>
-              <td>{c.status}</td>
+              <td className="tdd">{c.onboarding}</td>
+              <td className="tdd">{c.go_live}</td>
+              <td className="tdd">{c.total}</td>
+              <td className="tdd">{c.billing_date}</td>
+              <td className="tdd">{c.status}</td>
             </tr>
           ))}
         </tbody>

@@ -3,7 +3,7 @@ import React from "react";
 const BarChart = () => {
   return (
     <div className="performance1">
-      <p className="key">Avtice User Base</p>
+      <p className="key">Active User Base</p>
       <div className="all">
         <div className="last">
           <div className="block">
